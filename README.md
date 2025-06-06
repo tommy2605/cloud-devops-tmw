@@ -1,4 +1,4 @@
-# Cloud DevOps Base Project for HeadFirst Group
+# Cloud DevOps Base Project for TMW Solutions
 
 This repository contains a base project for demonstrating Cloud DevOps skills:
 
